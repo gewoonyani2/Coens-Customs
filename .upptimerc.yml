@@ -1,6 +1,6 @@
 # Change these first
 owner: gewoonyani2 # Your GitHub organization or username, where this repository lives
-repo: Coens-Customs-Status # The name of this repository
+repo: Coens-Customs # The name of this repository
 
 sites:
   - name: Main Bot
@@ -13,7 +13,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  baseUrl: /Coens-Customs-Status
+  baseUrl: /Coens-Customs
   logoUrl: https://media.discordapp.net/attachments/1229509714178736299/1229830099323457618/0c9e370a4abddc799d33510fa3b4250c.png?ex=66311b88&is=661ea688&hm=7d0f64574ecccf7be585fe64135b6891ede3d7c558f114668279feb266b12a2e&=&format=webp&quality=lossless&width=607&height=607
   name: Coen's Customs Status
   introTitle: "**Coen's Customs** status page for al our services."
