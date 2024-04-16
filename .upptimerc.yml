@@ -8,7 +8,7 @@ sites:
   - name: Hub Bot
     url: https://node2.redon.tech:25507
   - name: WebSite
-    url: https://news.ycombinator.com
+    url: https://node2.redon.tech:25507
   
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
