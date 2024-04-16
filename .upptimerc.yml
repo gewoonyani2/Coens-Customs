@@ -18,9 +18,10 @@ status-website:
   name: Coen's Customs Status
   introTitle: "**Coen's Customs** status page for al our services."
   introMessage: De officiele status pagina van Coen's Customs
+  theme: ocean
   navbar:
     - title: Status
-      href: /
+      href: /Coens-Customs
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
