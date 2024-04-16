@@ -13,10 +13,10 @@ sites:
     url: node2.redon.tech
     port: 25507
     icon: https://media.discordapp.net/attachments/1229509714178736299/1229830099323457618/0c9e370a4abddc799d33510fa3b4250c.png?ex=66311b88&is=661ea688&hm=7d0f64574ecccf7be585fe64135b6891ede3d7c558f114668279feb266b12a2e&=&format=webp&quality=lossless&width=607&height=607
-  - name: WebSite
+  - name: Website
     check: "tcp-ping"
-    url: node2.redon.tech
-    port: 25507
+    url: 45.88.188.104
+    port: 6330
     icon: https://media.discordapp.net/attachments/1229509714178736299/1229830099323457618/0c9e370a4abddc799d33510fa3b4250c.png?ex=66311b88&is=661ea688&hm=7d0f64574ecccf7be585fe64135b6891ede3d7c558f114668279feb266b12a2e&=&format=webp&quality=lossless&width=607&height=607
   
 status-website:
