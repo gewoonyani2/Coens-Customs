@@ -4,11 +4,17 @@ repo: Coens-Customs # The name of this repository
 
 sites:
   - name: Main Bot
-    url: https://66.94.113.204:6191
+    check: "tcp-ping"
+    url: 66.94.113.204
+    port: 6191
   - name: Hub Bot
-    url: https://node2.redon.tech:25507
+    check: "tcp-ping"
+    url: node2.redon.tech
+    port: 25507
   - name: WebSite
-    url: https://node2.redon.tech:25507
+    check: "tcp-ping"
+    url: node2.redon.tech
+    port: 25507
   
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
