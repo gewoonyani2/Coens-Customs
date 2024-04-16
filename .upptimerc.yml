@@ -6,7 +6,7 @@ sites:
   - name: Main Bot
     url: https://66.94.113.204:6191
   - name: Hub Bot
-    url: https://en.wikipedia.org
+    url: https://node2.redon.tech:25507
   - name: WebSite
     url: https://news.ycombinator.com
   
