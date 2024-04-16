@@ -7,14 +7,17 @@ sites:
     check: "tcp-ping"
     url: 66.94.113.204
     port: 6191
+    ipv6: true
   - name: Hub Bot
     check: "tcp-ping"
     url: node2.redon.tech
     port: 25507
+    ipv6: true
   - name: WebSite
     check: "tcp-ping"
     url: node2.redon.tech
     port: 25507
+    ipv6: true
   
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
