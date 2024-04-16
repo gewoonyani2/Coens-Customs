@@ -4,18 +4,20 @@
     "url": "66.94.113.204",
     "icon": "https://media.discordapp.net/attachments/1229509714178736299/1229830099323457618/0c9e370a4abddc799d33510fa3b4250c.png?ex=66311b88&is=661ea688&hm=7d0f64574ecccf7be585fe64135b6891ede3d7c558f114668279feb266b12a2e&=&format=webp&quality=lossless&width=607&height=607",
     "slug": "main-bot",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 105,
     "timeDay": 105,
     "timeWeek": 105,
     "timeMonth": 105,
     "timeYear": 105,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-16": 0
+    }
   },
   {
     "name": "Hub Bot",
