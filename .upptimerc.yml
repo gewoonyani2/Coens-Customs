@@ -4,7 +4,7 @@ repo: Coens-Customs # The name of this repository
 
 sites:
   - name: Main Bot
-    url: https://www.google.com
+    url: https://66.94.113.204:6191
   - name: Hub Bot
     url: https://en.wikipedia.org
   - name: WebSite
