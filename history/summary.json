@@ -40,19 +40,19 @@
     "url": "45.88.188.104",
     "icon": "https://media.discordapp.net/attachments/1229509714178736299/1229830099323457618/0c9e370a4abddc799d33510fa3b4250c.png?ex=66311b88&is=661ea688&hm=7d0f64574ecccf7be585fe64135b6891ede3d7c558f114668279feb266b12a2e&=&format=webp&quality=lossless&width=607&height=607",
     "slug": "website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 128,
-    "timeDay": 164,
-    "timeWeek": 128,
-    "timeMonth": 128,
-    "timeYear": 128,
+    "status": "up",
+    "uptime": "99.08%",
+    "uptimeDay": "98.27%",
+    "uptimeWeek": "99.08%",
+    "uptimeMonth": "99.08%",
+    "uptimeYear": "99.08%",
+    "time": 124,
+    "timeDay": 137,
+    "timeWeek": 124,
+    "timeMonth": 124,
+    "timeYear": 124,
     "dailyMinutesDown": {
-      "2024-04-18": 0
+      "2024-04-18": 25
     }
   }
 ]
