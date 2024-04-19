@@ -4,9 +4,9 @@
     "url": "66.94.113.204",
     "icon": "https://media.discordapp.net/attachments/1229509714178736299/1229830099323457618/0c9e370a4abddc799d33510fa3b4250c.png?ex=66311b88&is=661ea688&hm=7d0f64574ecccf7be585fe64135b6891ede3d7c558f114668279feb266b12a2e&=&format=webp&quality=lossless&width=607&height=607",
     "slug": "main-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 82,
     "timeMonth": 82,
     "timeYear": 82,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-19": 0
+    }
   },
   {
     "name": "Hub Bot",
@@ -40,18 +42,19 @@
     "url": "45.88.188.104",
     "icon": "https://media.discordapp.net/attachments/1229509714178736299/1229830099323457618/0c9e370a4abddc799d33510fa3b4250c.png?ex=66311b88&is=661ea688&hm=7d0f64574ecccf7be585fe64135b6891ede3d7c558f114668279feb266b12a2e&=&format=webp&quality=lossless&width=607&height=607",
     "slug": "website",
-    "status": "up",
-    "uptime": "99.20%",
-    "uptimeDay": "98.27%",
-    "uptimeWeek": "99.20%",
-    "uptimeMonth": "99.20%",
-    "uptimeYear": "99.20%",
+    "status": "down",
+    "uptime": "99.33%",
+    "uptimeDay": "98.26%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "99.33%",
     "time": 118,
     "timeDay": 103,
     "timeWeek": 118,
     "timeMonth": 118,
     "timeYear": 118,
     "dailyMinutesDown": {
+      "2024-04-19": 0,
       "2024-04-18": 25
     }
   }
